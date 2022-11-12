@@ -31,8 +31,8 @@ body{
     width: 1150px;
     height: 230px;
     border-radius: 20px;
-    padding-right:75%;
-    float: right;
+    padding-right:50%;
+    float: left;
     display: flex;
     flex-wrap: wrap;
     content: center;
