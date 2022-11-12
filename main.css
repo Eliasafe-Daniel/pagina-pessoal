@@ -27,11 +27,11 @@ body{
 }
 .about{
     border: 1px solid;
-    position:relative;
+    position:static;
     width: 900px;
     height: 230px;
     border-radius: 20px;
-    padding-right:50%;
+    padding: right 70%;
     float: left;
     display: flex;
     flex-wrap:wrap;
