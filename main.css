@@ -31,14 +31,10 @@ body{
     width: 900px;
     height: 230px;
     border-radius: 20px;
-    padding: right 82%;
-    float: left;
-    display: flex;
-    flex-wrap:wrap;
     content: center;
-    flex-direction: column;
     text-align: center;  
     box-sizing:border-box;
+    right: 50%;
 }
 
 .sec{
