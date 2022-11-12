@@ -27,19 +27,20 @@ body{
 }
 .about{
     border: 1px solid;
-    position:fixed;
-    width: 1150px;
+    position:relative;
+    width: 900px;
     height: 230px;
     border-radius: 20px;
     padding-right:50%;
     float: left;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     content: center;
     flex-direction: column;
     text-align: center;  
     box-sizing:border-box;
 }
+
 .sec{
     color: aliceblue;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
