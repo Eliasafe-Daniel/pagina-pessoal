@@ -52,7 +52,6 @@ body{
 p#txtmod{ color: black; }
 
 .habilidade{
-
     box-sizing: border-box;
     position:relative;
     max-width: 250px;
