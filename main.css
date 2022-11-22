@@ -28,8 +28,10 @@ body{
 .about{
     border: 1px solid;
     position: relative;left: 30px;
-    height: 230px;
-    width: 78%;
+    min-height: 50px;
+    max-height: 230px;
+    max-width: 78%;
+    min-width: 30%;
     border-radius: 20px;
     content: center;
     text-align: center;  
