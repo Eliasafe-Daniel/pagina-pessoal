@@ -1,4 +1,4 @@
-img{
+img#perf{
     border-radius: 50%;
     width: 150px;
 }
@@ -27,14 +27,14 @@ body{
 }
 .about{
     border: 1px solid;
-    position:static;
-    width: 900px;
+    position: relative;left: 30px;
     height: 230px;
+    width: 78%;
     border-radius: 20px;
     content: center;
     text-align: center;  
     box-sizing:border-box;
-    right: 10%;
+    margin-left: 20%;
 }
 
 .sec{
